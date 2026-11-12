@@ -1,1 +1,3 @@
 # Minnu-repo
+## this is my first commit
+hey hi manideep one day you will become very successfull person.. believe your self...
